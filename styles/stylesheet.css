@@ -1,0 +1,94 @@
+/* Styles */
+
+h1 {
+	font-family: 'Alegreya Sans SC', sans-serif;
+	font-size: 90px;
+}
+
+ul#nav li {
+	position: relative;
+	top: -50px;
+	left: -20px;
+	font-family: 'Alegreya Sans SC', sans-serif;
+	font-size: 30px;
+	color: grey;
+	display: inline;
+	text-align: center;
+	padding: 10px;
+	
+}
+
+.header {
+	text-align: center;
+}
+
+.melissa {
+	text-align: center;
+	
+}
+	
+ul#nav2 li {
+	position: relative;
+	top: -50px;
+	left: -20px;
+	font-family: 'Alegreya Sans SC', sans-serif;
+	font-size: 20px;
+	color: grey;
+	display: inline;
+	text-align: center;
+	padding: 10px;
+}
+	
+.images {
+	position: relative;
+	text-align: center;
+	
+}
+
+mark.black {
+	color: black;
+	background: none;
+}
+
+a:link {
+    text-decoration: none;
+    color: grey;
+}
+
+a:visited {
+    text-decoration: none;
+    color: grey;
+}
+
+a:hover {
+    text-decoration: none;
+    color: black;
+}
+
+a:active {
+    text-decoration: none;
+    color: grey;
+}
+
+
+.about-image {
+	position: relative;
+	text-align: center;
+	padding: 30px;
+}
+
+.about-text {
+	position: relative;
+	text-align: center;
+	padding: 30px;
+	font-family: 'Halant', serif;
+	font-size: 15px;
+}
+
+.contact {
+	position: relative;
+	text-align: center;
+	font-family: 'Halant', serif;
+}
+
+
